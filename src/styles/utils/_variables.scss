@@ -1,0 +1,24 @@
+// based on bootstrap !
+
+$breakpoints: (
+  xs: (
+    min-width: 0,
+    max-width: 575px,
+  ),
+  sm: (
+    min-width: 576px,
+    max-width: 767px,
+  ),
+  md: (
+    min-width: 768px,
+    max-width: 991px,
+  ),
+  lg: (
+    min-width: 992px,
+    max-width: 1199px,
+  ),
+  xl: (
+    min-width: 1200px,
+    max-width: 4000px,
+  )
+)
